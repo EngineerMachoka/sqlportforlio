@@ -21,6 +21,6 @@ It contains scripts and examples demonstrating how I use SQL to solve real-world
 ---
 
 ## 📂 Repository Structure
- scripts/ # SQL queries and scripts
-│── datasets/ # Example datasets
+Covid 19 Project: scripts/ [sqlcodeproject3.sql](https://github.com/EngineerMachoka/sqlportforlio/tree/main)
+│── datasets/ [# Example datasets](https://github.com/EngineerMachoka/sqlportforlio/blob/main/coviddeaths.xls)
 │── README.md # Project documentation
