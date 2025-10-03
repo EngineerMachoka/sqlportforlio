@@ -102,4 +102,5 @@ ORDER BY 1, date
 SELECT
 FORMAT(date, 'dd/MM/yyyy')
 FROM
+
 sqlportfolio.dbo.coviddeaths
